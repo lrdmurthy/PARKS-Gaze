@@ -3,5 +3,5 @@
  
  We shall soon be updating this page with more details about the dataset and the process of obtaining the dataset. 
  
- For any queries, write to: lrdmurthy@iisc.ac.in
+ For any queries, feel free to write to: lrdmurthy@iisc.ac.in
  
